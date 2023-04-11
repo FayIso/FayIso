@@ -3,7 +3,7 @@
 
 <p align="left"> <a href="https://twitter.com/fayisooffi" target="blank"><img src="https://img.shields.io/twitter/follow/fayisooffi?logo=twitter&style=for-the-badge" alt="fayisooffi" /></a> </p>
 
-- 🔭 I’m currently working on [eSecurity](https://github.com/FayIso/eSecurity)
+- 🔭 I’m currently working on [TZ Project](https://tzproject.com)
 
 - 🌱 I’m currently learning **React, Javascript, Php**
 
