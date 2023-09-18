@@ -9,13 +9,14 @@
 
 - 💬 Ask me about **React, Java**
 
-- 📫 How to reach me **Enzo#5555 on discord**
+- 📫 How to reach me **enzo_.clf on discord**
 
 - ⚡ Fun fact **I'm started the developement with VB.Net**
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
-<a href="https://twitter.com/fayisooffi" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fayisooffi" height="30" width="40" /></a>
+<a href="https://enzo-barreiro.fr" target="blank">Website</a>  
+<a href="https://twitter.com/enzo__clf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="fayisooffi" height="30" width="40" /></a>
 <a href="https://instagram.com/enzo._clf" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="enzo._clf" height="30" width="40" /></a>
 <a href="https://www.youtube.com/c/fayiso" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/youtube.svg" alt="fayiso" height="30" width="40" /></a>
 </p>
