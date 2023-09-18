@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Enzo Barreiro</h1>
 <h3 align="center">A developer from France</h3>
 
-<p align="left"> <a href="https://twitter.com/fayisooffi" target="blank"><img src="https://img.shields.io/twitter/follow/fayisooffi?logo=twitter&style=for-the-badge" alt="fayisooffi" /></a> </p>
+<p align="left"> <a href="https://twitter.com/enzo__clf" target="blank"><img src="https://img.shields.io/twitter/follow/enzo__clf?logo=twitter&style=for-the-badge" alt="enzo__clf" /></a> </p>
 
 - 🔭 I’m currently working on [TZ Project](https://tzproject.com)
 
